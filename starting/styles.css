@@ -1,0 +1,142 @@
+body {
+  margin: 0 10%;
+}
+
+.page-heading {
+  text-align: center;
+  font-family: Roboto;
+  font-size: 28px;
+  margin: 30px;
+}
+
+.container {
+  border: 1px solid #000;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Dancing Script";
+  font-size: 28px;
+}
+
+p {
+  font-family: "Open-Sans";
+  font-size: 18px;
+}
+
+.color-container {
+  display: block;
+  width: 100%;
+}
+
+.color-block {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.purple {
+  background-color: #0d0628;
+  color: #fff;
+}
+
+.plum {
+  background-color: #98348e;
+  color: #fff;
+}
+
+.blush {
+  background-color: #da627d;
+  color: #fff;
+}
+
+.atomic-tangerine {
+  background-color: #fca17d;
+  color: #000;
+}
+
+.light-orange {
+  background-color: #f9dbbd;
+  color: #000;
+}
+
+.font-container {
+  display: block;
+}
+
+.font-panel {
+  display: inline-block;
+  width: 45%;
+}
+
+.roboto {
+  font-family: roboto, monospace;
+}
+
+.dancing-script {
+  font-family: "dancing script";
+}
+
+.open-sans {
+  font-family: "open sans";
+}
+
+.font-label {
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text-container {
+  display: block;
+}
+
+.text-panel {
+  display: inline-block;
+  width: 45%;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, monospace;
+}
+
+ul {
+  line-height: 1.5;
+}
+
+.text-panel-heading {
+  font-size: 28px;
+  font-weight: 500;
+  font-family: "Dancing Script", Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+
+.text-panel-paragraph {
+  font-size: 18px;
+  font-family: "Open-Sans";
+}
